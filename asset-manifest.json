@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-port-website/static/css/main.2c141ce9.css",
-    "main.js": "/react-port-website/static/js/main.45080e2c.js",
-    "static/media/Work 03.jpg": "/react-port-website/static/media/Work 03.7d436480c970a8e62eb9.jpg",
-    "static/media/docker.png": "/react-port-website/static/media/docker.ca58bd8952dda05ef627.png",
-    "index.html": "/react-port-website/index.html",
-    "main.2c141ce9.css.map": "/react-port-website/static/css/main.2c141ce9.css.map",
-    "main.45080e2c.js.map": "/react-port-website/static/js/main.45080e2c.js.map"
+    "main.css": "/static/css/main.2c141ce9.css",
+    "main.js": "/static/js/main.cb5f3e6d.js",
+    "static/media/Work 03.jpg": "/static/media/Work 03.7d436480c970a8e62eb9.jpg",
+    "static/media/docker.png": "/static/media/docker.ca58bd8952dda05ef627.png",
+    "index.html": "/index.html",
+    "main.2c141ce9.css.map": "/static/css/main.2c141ce9.css.map",
+    "main.cb5f3e6d.js.map": "/static/js/main.cb5f3e6d.js.map"
   },
   "entrypoints": [
     "static/css/main.2c141ce9.css",
-    "static/js/main.45080e2c.js"
+    "static/js/main.cb5f3e6d.js"
   ]
 }
