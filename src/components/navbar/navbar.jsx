@@ -17,7 +17,7 @@ const Navbar = () => {
       <div className="logo">
         <img src={Logo} alt='Image'/>
         </div>
-        <a class='hosam'href='#'>Hosam Aldeeb | </a>
+        <a class='hosam'href='/'>Hosam Aldeeb | </a>
         <a class='linkedin' href='https://linkedin.com/in/Hosam-Aldeeb-3ald' target="_blank"><BsLinkedin/></a>
         <a class='github' href='https://github.com/Hosam-Aldeeb' target="_blank"><BsGithub/></a>
         
@@ -36,6 +36,7 @@ const Navbar = () => {
         
       
     </nav>
+  
   )
 }
 
