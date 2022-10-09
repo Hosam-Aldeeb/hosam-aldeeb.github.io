@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hosam-Aldeeb.github.io/static/css/main.2c141ce9.css",
+    "main.js": "/Hosam-Aldeeb.github.io/static/js/main.4b828128.js",
+    "static/media/Work 03.jpg": "/Hosam-Aldeeb.github.io/static/media/Work 03.7d436480c970a8e62eb9.jpg",
+    "static/media/docker.png": "/Hosam-Aldeeb.github.io/static/media/docker.ca58bd8952dda05ef627.png",
+    "index.html": "/Hosam-Aldeeb.github.io/index.html",
+    "main.2c141ce9.css.map": "/Hosam-Aldeeb.github.io/static/css/main.2c141ce9.css.map",
+    "main.4b828128.js.map": "/Hosam-Aldeeb.github.io/static/js/main.4b828128.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c141ce9.css",
+    "static/js/main.4b828128.js"
+  ]
+}
