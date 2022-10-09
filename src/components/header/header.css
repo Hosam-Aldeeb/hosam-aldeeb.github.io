@@ -1,0 +1,11 @@
+header{
+    background:var(--color-white);
+    padding:2rem 22rem;
+    z-index: 1;
+    display:flex;
+    width:max-content;
+    font-size: 2em;
+    position:relative;
+    bottom:0.5rem;
+    white-space: nowrap;
+}
