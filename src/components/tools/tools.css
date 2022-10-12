@@ -65,14 +65,14 @@ h1{
 /* media queries (medium)*/
 @media screen and (max-width:1400px){
     .tools__container{
-        height:38vh;
+        height:48vh;
     }
    
         
 
     
     #tools{
-        height:45vh;
+        height:58vh;
         width:100%;
         margin-top: 15vh;
         margin-bottom: 0;
