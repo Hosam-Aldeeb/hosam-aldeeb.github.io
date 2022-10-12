@@ -110,7 +110,7 @@ h3{
 
 
 /* media queries (medium)*/
-@media screen and (max-width:1320px){
+@media screen and (max-width:1400px){
     .contact__container{
         height:68vh;
     }

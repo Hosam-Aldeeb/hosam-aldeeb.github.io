@@ -50,7 +50,7 @@ h2{
     
 
     /* media queries (medium)*/
-    @media screen and (max-width:1320px){
+    @media screen and (max-width:1400px){
         .container{
             height:58vh;
         }
@@ -61,7 +61,7 @@ h2{
             margin:0;
         }
         .about__me-image{
-            height:30vh;
+            height:40vh;
             
         }
         .about__me-image img{
